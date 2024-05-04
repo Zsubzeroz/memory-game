@@ -5,7 +5,7 @@ Um jogo para passar o seu tempo
 ## índice
 - <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
-- <a href="#demonstraçãoo">Demonstração<a>
+- <a href="#demonstração">Demonstração<a>
 - <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
